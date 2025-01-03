@@ -1,0 +1,88 @@
+<div class="box">
+                <div class="imbox">
+                    <img src="images.jpeg" alt=""height="235" width="230">
+                </div>
+                <div class="text">
+                    <h3>2. Mr............
+                        <p>DG chez la Vertueuse</p>
+                    </h3>
+                </div>
+    
+            </div>
+            <div class="box">
+                <div class="imbox">
+                    <img src="images.jpeg" alt=""height="235" width="230">
+                </div>
+                <div class="text">
+                    <h3>3. Mr..............
+                        <p>SG chez la Vertueuse</p>
+                    </h3>
+                </div>
+    
+            </div>
+            <div class="box">
+                <div class="imbox">
+                    <img src="images.jpeg" alt=""height="235" width="230">
+                </div>
+                <div class="text">
+                    <h3>4. Mr..............
+                        <p>CRV chez la Vertueuse</p>
+                    </h3>
+                </div>
+    
+            </div>
+            <div class="box">
+                <div class="imbox">
+                    <img src="images.jpeg" alt=""height="235" width="230">
+                </div>
+                <div class="text">
+                    <h3>5. Mr........
+                        <p>CD chez la Vertueuse</p>
+                    </h3>
+                </div>
+    
+            </div>
+            <div class="box">
+                <div class="imbox">
+                    <img src="images.jpeg" alt=""height="235" width="230">
+                </div>
+                <div class="text">
+                    <h3>6. Mr............
+                        <p>ADM chez la Vertueuse</p>
+                    </h3>
+                </div>
+    
+            </div>
+            <div class="box">
+                <div class="imbox">
+                    <img src="images.jpeg" alt=""height="235" width="230">
+                </div>
+                <div class="text">
+                    <h3>7. Mr..........
+                        <p>PDG chez la Vertueuse</p>
+                    </h3>
+                </div>
+    
+            </div>
+            <div class="box">
+                <div class="imbox">
+                    <img src="images.jpeg" alt=""height="235" width="230">
+                </div>
+                <div class="text">
+                    <h3>8. Mr...........
+                        <p>AGENT chez la Vertueuse</p>
+                    </h3>
+                </div>
+    
+            </div>
+            <div class="box">
+                <div class="imbox">
+                    <img src="images.jpeg" alt=""height="235" width="230">
+                </div>
+                <div class="text">
+                    <h3>9. Mr.........
+                        <p>VC chez la Vertueuse</p>
+                    </h3>
+                </div>
+    
+            </div>

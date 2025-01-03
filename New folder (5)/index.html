@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+    <title>Vertueuse</title>
+</head>
+<body>
+    <header>
+        <a href="#" class="logo"><span>V</span>ertueuse</a>
+        <ul class="navbar">
+            <li><a href="#">Accueil</a></li>
+            <li><a href="#">Devise</a></li>
+            <li><a href="#">Produit</a></li>
+            <li><a href="#">Hiérarchie</a></li>
+            <li><a href="#">Tegmoignage</a></li>
+            <li><a href="#">Contact</a></li>
+            <a href="#" class="btn-Aider">Aide</a>
+
+        </ul>
+    </header>
+    <section class="banniere" id="banniere">
+        <div class="contenu">
+            <a href="#" class="btn2">[Visuel : Une image élégante de la nature, 
+                avec des feuilles de tabac soigneusement cultivées en arrière-plan.]
+                 </a>
+        </div>
+    </section>
+    <section class="apropos" id="apropos">
+        
+        <div class="row">
+            <div class="col50">
+                <h2 class="titre-texte"><span>D</span> evise De La Vertueuse</h2>
+                <p> Découvrez la qualité au bout des doigts avec LA VERTUEUSE..</p>
+                <p> Une sélection exceptionnelle : </p>
+                <p>Nous proposons une gamme variée de tabacs de qualité supérieure,.</p> 
+                <p>soigneusement selectionnes pour satisfaire les amateurs les plus exigeants.</p>
+                <p> Des saveurs authentiques : </p>
+                <p>Que vous préfériez les tabacs doux, corse ou aromatisés, 
+                    nous avons ce qu'il vous faut.</p>
+                <p> Prix ​​compétitifs : </p>
+                <p>Profitez d'un excellent rapport qualité-prix sur tous nos produits</p>
+                
+                <p> Ou nous trouverons</p>
+                <p> Passez nous voir à [adresse d'établissement] ou contactez-nous au[num tel]</p>
+            </div>
+             
+        </div>
+    </section>
+    <section class="Production" id="Produit">
+        <div class="titre">
+            <h2 class="titre-texte"><span>P</span> roduit</h2>
+
+        </div>
+        <div class="contenu">
+            <div class="box">
+                <div class="imbox">
+                    <img src="13.jpg" alt=""height="275" width="250">
+                </div>
+                <div class="text">
+                    <h3>Notre paquet</h3>
+                </div>
+            </div>
+            <div class="box">
+                <div class="imbox">
+                    <img src="12.jpg" alt=""height="275" width="250">
+                </div>
+                <div class="text">
+                    <h3>Notre tige</h3>
+                </div>
+            </div>
+        </div>
+            
+    </section>
+    <section class="Hiérarchie" id="Hiérarchie">
+        <div class="titre">
+            <h2 class="titre-texte"><span>H</span> iérarchie</h2>
+
+        </div>
+        <div class="contenu">
+            <div class="box">
+                <div class="imbox">
+                    <img src="Screenshot_2024-12-09-10-58-06-86.png" alt=""height="275" width="250">
+                </div>
+                <div class="text">
+                    <h3>Mr. Felly TULUMA</h3>
+                    <p>DG chez la Vertueuse</p>
+                </div>
+            </div>
+            <div class="box">
+                <div class="imbox">
+                    <img src="images.jpeg" alt=""height="275" width="250">
+                </div>
+                <div class="text">
+                    <h3>Mr. Lolhy KASONGO </h3>
+                    <p>DV chez la Vertueuse</p>
+                </div>
+            </div>
+            <div class="box">
+                <div class="imbox">
+                    <img src="images.jpeg" alt=""height="275" width="250">
+                </div>
+                <div class="text">
+                    <h3>Mr.Kike TSHIPAMBA</h3>
+                    <p>DAF chez la Vertueuse</p>
+                </div>
+            </div>
+            <div class="box">
+                <div class="imbox">
+                    <img src="images.jpeg" alt=""height="275" width="250">
+                </div>
+                <div class="text">
+                    <h3>Mr.Christophe ENECHO</h3>
+                    <p>DRH chez la Vertueuse</p>
+                </div>
+            </div>
+        </div>
+        
+        <section class="Tegmoignage" id="Tegmoignage">
+            <div class="titre">
+                <h2 class="titre-texte"><span>T</span> egmoignage</h2>
+    
+            </div>
+            <div class="contenu">
+                <div class="box">
+                    <div class="imbox">
+                        <img src="images.jpeg" alt=""height="275" width="250">
+                    </div>
+                    <div class="text">
+                        <h3>Mango, 32 ans</h3>
+                        <p>"J'ai toujours été à la recherche d'un produit</p> 
+                        <p>qui respecte à la fois mes goûts et mes valeurs.</p> 
+                        <p>Avec La Vertueuse, je suis rassurée de savoir </p>
+                        <p>que chaque paquet est produit de manière responsable.</p> 
+                        <p>C'est un plaisir de fumer tout en soutenant une</p> 
+                        <p>marque qui s'engage pour l'environnement."</p>
+                    </div>
+                </div>
+                <div class="box">
+                    <div class="imbox">
+                        <img src="images.jpeg" alt=""height="275" width="250">
+                    </div>
+                    <div class="text">
+                        <h3>Jeff, 45 ans</h3>
+                        <p>"En tant que fumeur depuis des années, j'ai essayé </p>
+                        <p>"de nombreuses marques, mais La Vertueuse se distingue vraiment. </p>
+                        <p>"Le goût est exceptionnel, et j'apprécie leur transparence sur les ingrédients. </p>
+                        <p>"C'est une marque qui se soucie de ses clients." </p>
+                    
+                    </div>
+                </div>
+                <div class="box">
+                    <div class="imbox">
+                        <img src="images.jpeg" alt=""height="275" width="250">
+                    </div>
+                    <div class="text">
+                        <h3>Christian, 38 ans</h3>
+                        <p>"J'ai découvert La Vertueuse grâce à des amis et </p>
+                        <p>je ne peux plus m'en passer. Leur approche éthique m'a séduite,</p> 
+                        <p>et le packaging est vraiment élégant.</p> 
+                        <p>Je me sens bien en choisissant une marque</p> 
+                        <p>qui respecte les normes de qualité."</p>
+                    </div>
+                </div>
+                <div class="box">
+                    <div class="imbox">
+                        <img src="images.jpeg" alt=""height="275" width="250">
+                    </div>
+                    <div class="text" color: #0000>
+                        <h3>Pierre, 50 ans</h3>
+                        <p>"La Vertueuse est bien plus qu'une simple marque </p>
+                        <p>de tabac pour moi. C'est une expérience.</p> 
+                        <p>Leurs produits sont raffinés, et j'apprécie</p> 
+                        <p>leurs initiatives pour promouvoir des pratiques durables.</p> 
+                        <p>Je suis fier de soutenir une marque qui fait la différence."</p>
+                    </div>
+                </div>
+            </div>
+</section>
+<section class="Contact" id="contact">
+    <div class="titre noir">
+        <he class="titre-texte"><span>C</span>ontact</he>
+        <p>Faite nous savoir votre besoin en nous enyant un courier</p>
+    </div>
+    <div class="contactform">
+        <h3>Envoyez nous un message</h3>
+        <div class="inputboite">
+            <input type="text" placeholder="Nom">
+        </div>
+        <div class="inputboite">
+            <input type="text" placeholder="E-mail">
+        </div>
+        <div class="inputboite">
+            <textarea placeholder="Message"></textarea>
+        </div>
+        <div class="inputboite">
+            <input type="submit" valeur="envoyer">
+        </div>
+        
+    </div>
+</section>
+<script type="text/javascript">
+    window.addEventListener('scroll', function(){
+        const header=document.querySelector('header');
+        header.classList.toggle("sticky", window.scrollY > 0)
+    })
+</script>
+</body>
+</html>
